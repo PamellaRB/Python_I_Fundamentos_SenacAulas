@@ -1,0 +1,17 @@
+1 - Solicite ao usuário que insira dois números inteiros. Subtraia o segundo número do primeiro e exiba o resultado.
+2 - Peça ao usuário que insira o valor total de uma compra e o valor pago. Calcule e exiba o troco a ser devolvido.
+3 - Solicite ao usuário que insira três números inteiros. Calcule a soma dos três números e exiba o resultado.
+4 - Peça ao usuário que insira as idades de duas pessoas. Calcule e exiba a diferença entre as idades.
+
+
+#5-   Um funcionário recebe 1.200 reais por semana. 
+# Crie um programa que calcule quanto esse funcionário 
+# ganha em 4 semanas e exiba o resultado.
+
+
+#6 -   Uma empresa faturou 50.000 reais em um mês e tem 10 clientes 
+#  que contribuíram igualmente para esse faturamento. 
+#  Crie um programa que calcule o valor médio gasto por cliente
+#   e exiba o resultado.
+
+	

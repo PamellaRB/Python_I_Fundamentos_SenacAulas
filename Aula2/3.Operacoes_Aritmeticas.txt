@@ -1,0 +1,9 @@
+Operações Artimeticas
+
+SOMA - "+"
+SUBTRAÇÃO - "-"
+MULTIPLICAÇÃO - "*"
+DIVISÃO COMUM - "/"
+DIVISÃO INTEIRA (IGNORA AS CASAS DECIMAIS) - "//"
+MÓDULO (RESTO DA DIVISÃO) - "%"
+EXPONECIAÇÃO (ELEVAÇÃO DE NÚMEROS, EX 2³) - "**" 
