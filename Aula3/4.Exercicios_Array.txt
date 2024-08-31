@@ -1,0 +1,32 @@
+1  - Crie uma lista com cinco nomes de frutas. Em seguida, peça para eles realizarem as seguintes operações:
+
+a. Acessar e imprimir a segunda fruta da lista.
+b. Substituir a última fruta por outra de sua escolha.
+c. Adicionar uma nova fruta ao final da lista.
+d. Remover a primeira fruta da lista.
+
+
+
+
+2 - Crie uma lista com cinco nomes de pessoas. Em seguida, realize as seguintes operações:
+
+a. Adicione dois novos nomes ao final da lista.
+b. Substitua o segundo nome da lista por "Anônimo".
+c. Remova o primeiro nome da lista.
+d. Remova o último nome da lista.
+
+
+3 - Crie uma lista com cinco itens que você compraria no supermercado. Em seguida, realize as seguintes operações:
+
+a. Adicione dois novos itens ao final da lista.
+b. Remova o primeiro item da lista.
+c. Remova o último item da lista.
+d. Adicione um novo item ao final da lista e remova o item "Leite" da lista.
+
+
+4 - Crie uma lista com cinco números inteiros. Em seguida, realize as seguintes operações:
+
+a. Adicione um novo número ao final da lista.
+b. Remova o menor número da lista.
+c. Remova o último número da lista.
+d. Adicione um novo número ao final da lista e remova o primeiro número da lista.

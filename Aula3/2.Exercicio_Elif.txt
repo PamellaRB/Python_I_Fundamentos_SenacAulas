@@ -1,0 +1,17 @@
+
+
+1 - Escreva  um código que verifique se um número fornecido é positivo, negativo ou zero.
+
+2 - Crie uma variável chamada `temperatura` e atribua a ela um valor numérico. Depois, use as instruções `if`, `elif`, e `else` para decidir qual mensagem será exibida:
+
+- Se a temperatura for maior que 30, exiba "Está muito quente."
+- Se a temperatura for entre 20 e 30, exiba "O clima está agradável."
+- Se a temperatura for entre 10 e 19, exiba "Está um pouco frio."
+- Se a temperatura for menor que 10, exiba "Está muito frio."
+
+3- Crie uma variável chamada `nota` e atribua a ela um valor numérico entre 0 e 100. Depois, use as instruções `if`, `elif`, e `else` para determinar o seu desempenho:
+
+- Se a nota for maior ou igual a 90, exiba "Excelente".
+- Se a nota for entre 70 e 89, exiba "Bom".
+- Se a nota for entre 50 e 69, exiba "Regular".
+- Se a nota for menor que 50, exiba "Insuficiente".

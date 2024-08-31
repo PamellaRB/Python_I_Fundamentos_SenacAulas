@@ -1,0 +1,8 @@
+1 - Crie uma lista com seis números inteiros. Em seguida, use um laço for para contar quantos números 
+pares existem na lista e imprimir o resultado.
+
+2 - Crie uma lista com seis números inteiros. Em seguida, use um laço for para somar 
+todos os números da lista que são maiores que 5 e imprimir o resultado.
+
+3 - Crie uma lista com seis números inteiros. Em seguida, use um laço for para contar 
+quantos números ímpares existem na lista e imprimir o resultado.
