@@ -25,3 +25,11 @@ pessoas['Profissão'] = 'Engenheiro'
 #Mesmo que não tenhamos criado a chave Profissão, a partir do momento que solicitamos ao código para incluir a informação
 #no dicionário, automaticamente ele irá criar a chave e incluir o valor informado. 
 print(pessoas)
+
+print("--------------------------------------------------------------------------------------")
+#Print para separação dos resultados apresentados no terminal 
+#Quero saber se existe a chave Idade na variavel Pessoas
+if 'idade' in pessoas:
+    print(pessoas['idade'])
+else:
+    print("A chave informada não foi encontrada")
