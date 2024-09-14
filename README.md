@@ -1,4 +1,4 @@
-# Python_I_Fundamentos_SenacAulas
+# Python_I_Fundamentos_Senac_Aulas
 
 Este repositório foi criado no intuito de salvar e acompanhar a evolução das aulas de Python I Fundamentos, ministrado pelo Senac Santo Andre.
 
