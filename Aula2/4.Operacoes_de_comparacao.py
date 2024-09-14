@@ -9,7 +9,8 @@
 #MENOR OU IGUAL "<="
 
 #IGUALDADE
-
+print("---------------------------------------------------------------------------")
+#Print para separação dos resultados apresentados no terminal 
 preco_produto_a = 50
 preco_produto_b = 50
 
@@ -25,7 +26,8 @@ if preco_produto_a == preco_produto_b:
     #if sempre aguarda uma condição (if condição:)
 
 #DIFERENÇA
-
+print("---------------------------------------------------------------------------")
+#Print para separação dos resultados apresentados no terminal 
 saldo_cliente_1 = 1200
 saldo_cliente_2 = 1500
 
@@ -33,7 +35,8 @@ if saldo_cliente_1 != saldo_cliente_2:
     print("Os valores são diferentes")
 
 #MAIOR QUE
-
+print("---------------------------------------------------------------------------")
+#Print para separação dos resultados apresentados no terminal 
 faturamento_loja_a = 70000
 faturamento_loja_b = 68000
 

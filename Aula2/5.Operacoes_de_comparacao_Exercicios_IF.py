@@ -1,6 +1,7 @@
 #1 - Crie um programa que peça ao usuário para digitar a sua idade e a idade de um amigo. 
 # Verifique se as idades são iguais e, se forem, exiba a mensagem "Vocês têm a mesma idade".
-
+print("---------------------------------------------------------------------------")
+#Print para separação dos resultados apresentados no terminal 
 idade1 = int (input ("Informe sua idade "))
 idade2 = int (input ("intome a idade de um amigo "))
 
@@ -10,7 +11,8 @@ if idade1 == idade2:
 
 #2 - Crie um programa que peça ao usuário para digitar dois números. 
 # Verifique se os números são diferentes e, se forem, exiba a mensagem "Os números são diferentes".
-
+print("---------------------------------------------------------------------------")
+#Print para separação dos resultados apresentados no terminal 
 num1 = int (input("Insira um numero: "))
 num2 = int (input ("Insira outro numero: "))
 
@@ -19,7 +21,8 @@ if num1 != num2:
 
 #3- Crie um programa que peça ao usuário para digitar a sua altura e a altura de um amigo (em centímetros). 
 # Verifique se a altura do usuário é maior que a do amigo e, se for, exiba a mensagem "Você é mais alto que seu amigo".
-
+print("---------------------------------------------------------------------------")
+#Print para separação dos resultados apresentados no terminal 
 alt1 = float (input ("Informe sua altura em cm: "))
 alt2 = float (input ("Informa a altura de um amigo em cm: "))
 
@@ -28,7 +31,8 @@ if alt1 > alt2:
 
 #4-  Crie um programa que peça ao usuário para digitar a sua nota em uma prova e a nota mínima necessária para passar. 
 # Verifique se a nota do usuário é menor que a nota mínima e, se for, exiba a mensagem "Você não passou na prova"
-
+print("---------------------------------------------------------------------------")
+#Print para separação dos resultados apresentados no terminal 
 nota_prova = int (input("Qual sua nota na prova? "))
 nota_minima = int (input("Qual a nota mínima para passar? "))
 

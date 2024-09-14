@@ -1,6 +1,7 @@
 #Espaço de memoria sem um tempo definido
 #Guardar uma informação
-
+print("---------------------------------------------------------------------------")
+#Print para separação dos resultados apresentados no terminal 
 nome = "Pamella"
 print(nome)
 # nome é a variavel;
@@ -14,14 +15,16 @@ print(nome)
 
 # Os tipos armazenam variaveis diferentes
 # INT = Numeros inteiros (1,2,3,4...)
-
+print("---------------------------------------------------------------------------")
+#Print para separação dos resultados apresentados no terminal 
 idade = 31
 numero_de_alunos = 15
 
 # Ponto Flutuante (flut)
 # Armazena números que possuem casas decimais (10.3, 20.4...)
 # Sempre utiliza ponto "."
-
+print("---------------------------------------------------------------------------")
+#Print para separação dos resultados apresentados no terminal 
 salario = 30.10
 altura = 1.75
 peso = 40.30
@@ -32,6 +35,8 @@ peso = 40.30
 print("Minha idade: " + str(idade) + "Numero de alunos: " + str(numero_de_alunos))
 
 # STR - String - Armazena uma sequência de catacteres (palavras)
+print("---------------------------------------------------------------------------")
+#Print para separação dos resultados apresentados no terminal 
 nome = "Pamella"
 sobrenome = "Barros"
 
@@ -42,7 +47,8 @@ print(nome + sobrenome)
 
 ativo = True
 maior_de_idade = False
-
+print("---------------------------------------------------------------------------")
+#Print para separação dos resultados apresentados no terminal 
 
 
 

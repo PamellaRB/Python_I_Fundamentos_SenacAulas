@@ -1,0 +1,3 @@
+1 - Escreva um código para imprimir a tabuada do 5, de 5 até 50, usando a função range().
+2 - Faça uma contagem regressiva de 10 até 1. Use um laço for e a função range() para contar de 10 até 1 e imprimir cada número.
+3 - Escreva todos os números pares de 2 até 20. Use um laço for junto com a função range() para gerar e imprimir esses números.

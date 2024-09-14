@@ -1,0 +1,10 @@
+1 - Escreva um código que execute uma contagem regressiva de 10 a 1 e, ao final, exiba a mensagem "Olá mundo!".
+
+2 - Peça ao usuário para adivinhar um número entre 1 e 20. O loop continuará até que o usuário acerte o número. Informe ao usuário se o palpite foi maior ou menor que o número correto.
+
+**Dica:** Defina um número secreto e compare os palpites do usuário com esse número.
+
+3 - Crie um programa que peça ao usuário para inserir notas (valores numéricos). O programa deve continuar pedindo notas até que o usuário insira um valor negativo. Quando isso acontecer, o programa deve calcular e exibir a média das notas inseridas.
+
+**Dica:** Use um loop `while` para acumular as notas e contar quantas foram inseridas antes de calcular a média.
+

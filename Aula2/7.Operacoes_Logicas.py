@@ -5,7 +5,8 @@
 #NOT = Não (Utilizada para trocar o sentido da variavel, ou seja, se a condição for TRUE ela passa a ser FALSE)
 
 #UTILIZANDO O AND
-
+print("---------------------------------------------------------------------------")
+#Print para separação dos resultados apresentados no terminal 
 temperatura = int (input ("Digite a temperatura: "))
 umidade = int (input("Digite a umidade do ar: "))
 
@@ -18,7 +19,8 @@ else:
     print("O dia esta frio e seco")
 
 #UTILIZANDO O OR
-
+print("---------------------------------------------------------------------------")
+#Print para separação dos resultados apresentados no terminal 
 hora_atual = int (input("Digite a hora atual sem os minutos (0-23): "))
 if hora_atual < 9 or hora_atual > 18:
 #Validando se ao menos uma das variaveis for verdadeira (OR)
@@ -27,7 +29,8 @@ else:
     print("Fora do Horario comercial")
 
 #UTILIZANDO O NOT
-
+print("---------------------------------------------------------------------------")
+#Print para separação dos resultados apresentados no terminal 
 chovendo = input ("Esta chovendo? (sim/não)")
 #NOT irá converter a resposta do usuário
 

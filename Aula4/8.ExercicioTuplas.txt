@@ -1,0 +1,2 @@
+1 - Crie uma tupla com 5 cores diferentes. Em seguida, mostre a terceira cor da tupla.
+2 - Crie uma tupla chamada numeros com os números 1, 2, 3, 4, 5. Agora, tente alterar o valor do segundo número para 10. 

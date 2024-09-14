@@ -2,7 +2,8 @@
 #Verifique se o preço é maior que 50 reais e se a quantidade é maior que 10. 
 #Se ambas as condições forem verdadeiras, exiba "Você recebe um desconto!".
 #Caso contrário, exiba "Sem desconto disponível". Inclua o else em sua solução.
-
+print("---------------------------------------------------------------------------")
+#Print para separação dos resultados apresentados no terminal 
 valor_produto = float(input ("Digite o preço do produto: "))
 quantidade = int (input("Digite a quantidade de compra: "))
 
@@ -14,7 +15,8 @@ else:
 #2- Crie um programa que peça ao usuário para digitar a sua idade e se possui um código de desconto (sim/não). 
 # Se a idade for maior que 50 ou se o usuário tiver um código de desconto, exiba a mensagem "Você tem direito ao desconto!". 
 # Caso contrário, exiba "Sem desconto disponível". Inclua o else em sua solução.
-
+print("---------------------------------------------------------------------------")
+#Print para separação dos resultados apresentados no terminal 
 idade = int (input("Informe sua idade: "))
 desconto = input ("Possui código de desconto? (Sim/Não) ")
 
@@ -38,7 +40,8 @@ else:
 #3 - Crie um programa que peça ao usuário para digitar um nome de usuário. Verifique se o nome digitado não é "Joao". 
 # Se a condição for verdadeira, exiba "Acesso permitido, [nome]!". Caso contrário, 
 # exiba "Joao não pode ser usado como nome de usuário". Inclua o else em sua solução.
-
+print("---------------------------------------------------------------------------")
+#Print para separação dos resultados apresentados no terminal 
 nome_usuario = input ("Informe seu nome: ")
 
 if nome_usuario == "Joao" or "João":
@@ -49,7 +52,8 @@ else:
 # 4 - Crie um programa que peça ao usuário para digitar suas notas em três provas. 
 # Verifique se todas as notas são 6 ou mais. Se forem, exiba "Você passou em todas as provas!". 
 # Caso contrário, exiba "Você não passou em todas as provas". Inclua o else em sua solução.
-
+print("---------------------------------------------------------------------------")
+#Print para separação dos resultados apresentados no terminal 
 prova1 = float (input("Informe o valor da sua nota na prova 1: "))
 prova2 = float (input("Informe o valor da sua nota na prova 2: "))
 prova3 = float (input("Informe o valor da sua nota na prova 3: "))
@@ -64,7 +68,8 @@ else:
 # 5 - Crie um programa que peça ao usuário para digitar seu nome e idade. Verifique se o nome 
 # digitado não é "admin" ou se a idade é menor que 18. Se qualquer uma das condições for verdadeira, 
 # exiba "Acesso negado". Caso contrário, exiba "Acesso permitido". Inclua o else em sua solução.
-
+print("---------------------------------------------------------------------------")
+#Print para separação dos resultados apresentados no terminal 
 nome = input ("Informe seu nome: ")
 idade = int (input("Informe sua idade: "))
 

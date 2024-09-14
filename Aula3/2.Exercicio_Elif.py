@@ -1,5 +1,6 @@
 # 1 - Escreva  um código que verifique se um número fornecido é positivo, negativo ou zero.
-
+print("---------------------------------------------------------------------------")
+#Print para separação dos resultados apresentados no terminal 
 num_int = int (input ("Digite um número: "))
 
 if num_int % 2 == 0:
@@ -18,7 +19,8 @@ else:
 # - Se a temperatura for entre 20 e 30, exiba "O clima está agradável."
 # - Se a temperatura for entre 10 e 19, exiba "Está um pouco frio."
 # - Se a temperatura for menor que 10, exiba "Está muito frio."
-
+print("---------------------------------------------------------------------------")
+#Print para separação dos resultados apresentados no terminal 
 temperatura = int (input("Informe a temperatura: "))
 
 if temperatura <10:
@@ -36,7 +38,8 @@ else:
 # - Se a nota for entre 70 e 89, exiba "Bom".
 # - Se a nota for entre 50 e 69, exiba "Regular".
 # - Se a nota for menor que 50, exiba "Insuficiente".
-
+print("---------------------------------------------------------------------------")
+#Print para separação dos resultados apresentados no terminal 
 nota = float (input("Informe o valor da sua nota (0-100): "))
 
 if nota >= 90:

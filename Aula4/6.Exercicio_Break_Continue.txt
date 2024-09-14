@@ -1,0 +1,5 @@
+1 - Escreva um código que percorra uma lista de números e encontre o primeiro número negativo. Quando o número for encontrado, o loop deve parar.
+
+2 - Escreva  um código que some apenas os números positivos de uma lista. Se o número for negativo, o loop deve ignorá-lo e continuar.
+
+3 - Escreva um código que percorra uma lista de números e pare de executar assim que encontrar um número maior que 50.

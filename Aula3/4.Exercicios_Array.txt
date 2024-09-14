@@ -1,4 +1,4 @@
-1  - Crie uma lista com cinco nomes de frutas. Em seguida, peça para eles realizarem as seguintes operações:
+1  - Crie uma lista com cinco nomes de frutas. Em seguida, realize as seguintes operações:
 
 a. Acessar e imprimir a segunda fruta da lista.
 b. Substituir a última fruta por outra de sua escolha.
