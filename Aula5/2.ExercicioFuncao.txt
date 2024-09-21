@@ -1,0 +1,59 @@
+1 - Crie uma função chamada par_ou_impar que recebe um número como parâmetro e verifica se ele é par ou ímpar. A função deve imprimir "Par" se for par e "Ímpar" se for ímpar.
+
+# Testando a função
+par_ou_impar(10)  # Saída: Par
+par_ou_impar(7)   # Saída: Ímpar
+
+
+2 - Crie uma função chamada `calcular_media` que recebe três notas como parâmetros e retorna a média delas.
+
+
+# Testando a função
+resultado = calcular_media(8, 9, 7)
+print(resultado)  # Saída: 8.0
+
+
+3 - Crie uma função chamada contar_letras que recebe uma string como parâmetro e retorna o número de letras dessa string.
+
+
+# Testando a função
+quantidade = contar_letras("Python")
+print(quantidade)  # Saída: 6
+
+
+4 - Crie uma função chamada tabuada que recebe um número como parâmetro e imprime a tabuada de 1 a 10 desse número.
+
+# Testando a função
+tabuada(5)
+
+# Saída:
+5 x 1 = 5
+5 x 2 = 10
+5 x 3 = 15
+...
+5 x 10 = 50
+
+5 - Crie uma função chamada soma_lista que recebe uma lista de números como parâmetro e retorna a soma de todos os elementos dessa lista.
+
+
+# Testando a função
+numeros = [1, 2, 3, 4, 5]
+resultado = soma_lista(numeros)
+print(resultado)  # Saída: 15
+
+
+6 - Crie uma função chamada maior_numero que recebe uma lista de números como parâmetro e retorna o maior número dessa lista.
+
+
+# Testando a função
+numeros = [10, 23, 5, 78, 4]
+resultado = maior_numero(numeros)
+print(resultado)  # Saída: 78
+
+
+7 - Crie uma função chamada soma_pares que recebe uma lista de números e retorna a soma de todos os números pares presentes na lista.
+
+# Testando a função
+numeros = [10, 21, 32, 43, 54]
+resultado = soma_pares(numeros)
+print(resultado)  # Saída: 96

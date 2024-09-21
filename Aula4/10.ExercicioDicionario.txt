@@ -1,0 +1,5 @@
+1 - Crie um dicionário chamado aluno com as chaves 'nome' e 'curso'. Verifique se a chave 'idade' existe no dicionário. Se existir, mostre o valor correspondente. Caso contrário, exiba uma mensagem dizendo que a chave não foi encontrada.
+2 - Crie um dicionário chamado pessoa com as chaves 'nome', 'idade' e 'cidade'. Em seguida, remova a chave 'cidade' do dicionário e mostre o dicionário atualizado.
+3 - Crie um dicionário chamado carro com as chaves 'marca', 'modelo' e 'ano'. Em seguida, mostre todas as chaves e valores no formato "chave: valor" utilizando for.
+4 - Crie um dicionário chamado familia que contenha dois dicionários internos, um para pai (com as chaves 'nome' e 'idade') e outro para mãe (com as mesmas chaves). Em seguida, mostre o nome do pai e a idade da mãe.
+5 - Crie um dicionário chamado `estoque` onde as chaves são nomes de produtos (por exemplo, `'camiseta'` e `'calça'`). Cada produto deve ter uma lista como valor, contendo a quantidade disponível e o preço do produto. Em seguida, mostre a quantidade disponível de um dos produtos.
