@@ -1,0 +1,17 @@
+### Exercício 1: Criação do Arquivo CSV de Produtos
+Crie um arquivo chamado `produtos.csv` que contenha informações sobre cinco produtos. Cada linha deve ter as seguintes colunas: 
+ID, Nome, Preço e Categoria.
+
+
+### Exercício 2: Leitura do Arquivo CSV
+Escreva um código em Python que leia o arquivo `produtos.csv` que você criou e armazene os dados em uma lista de dicionários.
+
+
+### Exercício 3: Exibindo Nomes dos Produtos
+Utilizando um loop `for`, exiba apenas os nomes de todos os produtos contidos no arquivo `produtos.csv`.
+
+
+
+### Exercício 4: Exibindo Produtos Acima de um Certo Preço
+
+Escreva um código que, usando um loop `for`, exiba os nomes e preços dos produtos que custam mais de R$ 1000,00.

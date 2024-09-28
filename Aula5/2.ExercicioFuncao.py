@@ -22,7 +22,7 @@ print("-------------------------------------------------------------------------
 #2 - Crie uma função chamada `calcular_media` que recebe três notas como parâmetros e retorna a média delas.
 
 def calcular_media(nota1, nota2, nota3):
-    return nota1+nota2+nota3/3
+    return (nota1+nota2+nota3)/3
 
 # Testando a função
 resultado = calcular_media(8, 9, 7)
