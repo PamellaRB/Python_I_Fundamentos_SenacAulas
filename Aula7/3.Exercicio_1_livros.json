@@ -1,0 +1,20 @@
+[
+    {
+        "título": "1984",
+        "autor": "George Orwell",
+        "ano de publicação": 1949,
+        "gênero": "Distopia"
+    },
+    {
+        "título": "Sapiens: A Brief History of Humankind",
+        "autor": "Yuval Noah Harari",
+        "ano de publicação": 2011,
+        "gênero": "História"
+    },
+    {
+        "título": "O Homem e Seus Símbolos",
+        "autor": "Carl G. Jung",
+        "ano de publicação": 1964,
+        "gênero": "Psicologia"
+    }
+]

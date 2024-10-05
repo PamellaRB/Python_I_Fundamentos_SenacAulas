@@ -1,0 +1,17 @@
+[
+    {
+        "Nome":"Maria",
+        "Idade":30,
+        "E-mail":"maria.silva@email.com",
+        "Cidade":"São Paulo"
+    },
+    {
+        "Nome":"João",
+        "Idade":20,
+        "E-mail":"joao.silva@email.com",
+        "Cidade":"São Caetano"
+    },
+    {
+        "Habilidade":["Python","Photoshop"]
+    }
+]

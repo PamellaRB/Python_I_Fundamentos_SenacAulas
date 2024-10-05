@@ -1,0 +1,38 @@
+[
+{
+    "título": "Inception",
+    "diretor": "Christopher Nolan",
+    "ano de lançamento": 2010,
+    "gênero": "Ficção científica"
+},
+{
+    "título": "The Dark Knight",
+    "diretor": "Christopher Nolan",
+    "ano de lançamento": 2008,
+    "gênero": "Ação"
+},
+{
+    "título": "Interstellar",
+    "diretor": "Christopher Nolan",
+    "ano de lançamento": 2014,
+    "gênero": "Ficção científica"
+},
+{
+    "título": "Parasite",
+    "diretor": "Bong Joon-ho",
+    "ano de lançamento": 2019,
+    "gênero": "Drama"
+},
+{
+    "título": "The Matrix",
+    "diretor": "Lana Wachowski, Lilly Wachowski",
+    "ano de lançamento": 1999,
+    "gênero": "Ficção científica"
+},
+{
+    "título": "Inception",
+    "diretor": "Christopher Nolan",
+    "ano de lançamento": 2010,
+    "gênero": "Ficção científica"
+}
+]

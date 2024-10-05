@@ -1,0 +1,17 @@
+Exercício 1: Criação do Arquivo JSON da Biblioteca
+
+
+- Crie um arquivo chamado `biblioteca.json` que contenha as informações sobre uma biblioteca. 
+O JSON deve incluir o nome da biblioteca, o endereço, o número de livros e os horários de funcionamento.
+ - Escreva um código em Python que leia o arquivo `biblioteca.json` que você criou e armazene os dados em um dicionário.
+ - Utilizando o dicionário, exiba o nome e o endereço da biblioteca.
+
+
+Exercício 2: Criação de um Dicionário de Contatos
+
+- Crie um dicionário chamado contatos que contenha três entradas. Cada entrada deve ter um nome como chave e um número de telefone como valor.
+- Escreva um código em Python que adicione um novo contato ao dicionário contatos.
+- Utilizando o dicionário contatos, exiba todos os nomes e números de telefone formatados como "Nome: Número".
+
+
+

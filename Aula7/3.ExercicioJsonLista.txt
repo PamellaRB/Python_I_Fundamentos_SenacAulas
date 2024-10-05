@@ -1,0 +1,17 @@
+1 - Crie um arquivo chamado livros.json que contenha uma lista de três livros. 
+
+ - Cada livro deve ter as seguintes informações: título, autor, ano de publicação e gênero.  
+ - Escreva um código em Python que leia o arquivo livros.json que você criou e exiba o conteúdo na tela.
+
+
+2 - Crie um arquivo chamado filmes.json que contenha uma lista de cinco filmes. 
+
+ - Cada filme deve ter as seguintes informações: título, diretor, ano de lançamento e gênero.
+
+ - Escreva um código em Python que leia o arquivo filmes.json que você criou e armazene os dados em uma lista.
+
+ - Utilizando um loop for, exiba apenas os títulos de todos os filmes contidos no arquivo filmes.json.
+
+ - Escreva um código que, usando um loop for, exiba os títulos dos filmes dirigidos por "Christopher Nolan".
+
+ - Crie um código que conte e exiba quantos filmes existem em cada gênero. Utilize um loop for para fazer isso.
