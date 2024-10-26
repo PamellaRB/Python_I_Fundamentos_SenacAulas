@@ -1,0 +1,64 @@
+
+Exercicio 1
+**API**: ViaCEP
+
+**URL de Exemplo**: `https://viacep.com.br/ws/01001000/json/`
+
+Analisar e retornar as informações detalhadas sobre o endereço associado ao CEP informado.
+
+
+
+Exercicio 2
+
+**API**: IBGE - Projeções de População  - 3550308 (SP)
+
+**URL de Exemplo**: `https://servicodados.ibge.gov.br/api/v3/agregados/6579/periodos/2021/variaveis/9324?localidades=N6[3550308]`
+
+Analisar e retornar a população estimada do município com base no código IBGE.
+
+
+Exercicio 3
+**API**: IBGE - Municípios por Estado
+
+**URL de Exemplo**: `https://servicodados.ibge.gov.br/api/v1/localidades/estados/SP/municipios`
+
+Analisar e retornar uma lista de todos os municípios de um estado brasileiro especificado pela sigla.
+
+
+### Exercício 4: Listar Feriados Nacionais em um Ano
+
+**API**: BrasilAPI - Feriados Nacionais
+
+**URL de Exemplo**: `https://brasilapi.com.br/api/feriados/v1/2023`
+
+Analisar e retornar uma lista de todos os feriados nacionais para o ano informado.
+
+
+### Exercício 5: Código IBGE dos Estados
+
+**API**: IBGE - Estados
+
+**URL de Exemplo**: `https://servicodados.ibge.gov.br/api/v1/localidades/estados`
+
+Analisar e retornar a lista dos estados brasileiros com seus respectivos códigos IBGE.
+
+
+
+### Exercício 6: Informações sobre o CNPJ de Empresas
+
+**API**: ReceitaWS - Consulta de CNPJ
+
+SENAC = **03.709.814/0001-98**
+
+**URL de Exemplo**: `https://www.receitaws.com.br/v1/cnpj/{cnpj}`
+
+Analisar e retornar informações cadastrais de empresas com base no CNPJ.
+
+
+### Exercício 7: Consulta de Informações de DDD por Região
+
+**API**: BrasilAPI - Consulta de DDD
+
+**URL de Exemplo**: `https://brasilapi.com.br/api/ddd/v1/{codigo}`
+
+Analisar e retornar uma lista de cidades que utilizam um código DDD específico.
