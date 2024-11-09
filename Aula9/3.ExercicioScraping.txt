@@ -1,0 +1,4 @@
+1 - Pelo site: http://quotes.toscrape.com/  faça uma a requisição e exiba o título da página.
+     - Extraia todas as tag span e exiba seu conteúdo.
+     - Extraia e exibia o nome dos autores de cada citação na página inicial.
+ 
